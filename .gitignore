@@ -1,0 +1,5 @@
+.venv/
+raw/
+*.pbix
+.ipynb_checkpoints/
+cleaned/
